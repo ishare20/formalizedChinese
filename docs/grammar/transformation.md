@@ -9,6 +9,7 @@ sidebar_position: 2
 ### 常见名词词缀
 
 -ize：表示“使...化、使...成为”，如realize（实现）、organize（组织）、specialize（专门从事）等。
+> 形式中文在FC中表达可为```形式ized 中文```
 
 -tion：表示“行动、过程、状态”，如action（行动）、education（教育）、communication（交流）等。
 
