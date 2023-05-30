@@ -17,13 +17,13 @@ FC追求清晰、准确且有逻辑的表达，取英文之精华，弃其之糟
 
 ## 例文
 
-English is 形合的er than Chinese. It is 表现ed in 以下的 3点
+English is 形合的er than Chinese. It is 表现ed in 以下的 3点:
 
-1.A 句子 通常ly has a 完整的 结构.Its 语法成分 such as 主语，谓语 or others can't be 缺失的.The 关系 of 主句 and 从句 is 表现ed by 连接词s which 包括 if，so，but and so on.
+1. A 句子 通常ly has a 完整的 结构. Its 语法成分 such as 主语, 谓语 or others can't be 缺失的. The 关系 of 主句 and 从句 is 表现ed by 连接词s which 包括 if, so, but and so on.
 
-2.There are 庞大数量的 单词s with 多种的 形态变化s in English.It is 必要的 to 区分 时态，词性 and so on of 单词s by their 形式s.
+2. There are 庞大数量的 单词s with 多种的 形态变化s in English. It is 必要的 to 区分 时态, 词性 and so on of 单词s by their 形式s.
 
-3.English is 影响ed by 形式逻辑 of 亚里士多德 and 文化 of 理性主义.It is 要求ed to 表达 准确ly and 逻辑ly.
+3. English is 影响ed by 形式逻辑 of 亚里士多德 and 文化 of 理性主义. It is 要求ed to 表达 准确ly and 逻辑ly.
 
 
 ## 语法范式
@@ -39,16 +39,16 @@ FC表达提倡把更清晰、准确且有逻辑的表达作为一个可持续迭
 
 
 ## 参与贡献
-FC指南是一个持续迭代完善的在线文档，目前FC指南虽然不完善，但已是一个最小可用产品（MVP）。文档的完善需要不断地feedback和实践，欢迎加入形式中文FC社区参与交流讨论
+FC指南是一个持续迭代完善的在线文档，目前FC指南虽然不完善，但已是一个最小可用产品（MVP）。文档的完善需要不断的feedback和实践，欢迎加入形式中文FC社区参与交流讨论
 
 ## 社区
 
-### QQ群
-```
-607168904
-```
 ### 豆瓣小组
 [形式中文FC](https://www.douban.com/group/737565/)
+
+### QQ群
+![QQ群二维码](https://ishare20.github.io/formalizedChinese/img/qqgroup.png)
+
 
 
 
