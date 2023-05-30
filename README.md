@@ -18,7 +18,7 @@ FC追求清晰、准确且有逻辑的表达，取英文之精华，弃其之糟
 
 English is 形合的er than Chinese. It is 表现ed in 以下的 3点:
 
-1. A 句子 通常ly has a 完整的 结构. Its 语法成分 such as 主语, 谓语 or others can't be 缺失的. The 关系 of 主句 and 从句 is 表现ed by 连接词s which 包括 if, so, but and so on.
+1. A 句子 通常ly has a 完整的 结构. Its 语法成分 such as 主语, 谓语 or others can't be 缺失的. The 关系 between 主句 and 从句 is 表现ed by 连接词s which 包括 if, so, but and so on.
 
 2. There are 庞大数量的 单词s with 多种的 形态变化s in English. It is 必要的 to 区分 时态, 词性 and so on of 单词s by their 形式s.
 
