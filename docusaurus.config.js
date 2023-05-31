@@ -80,7 +80,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/ishare20/formalizedChinese',
+            href: 'https://github.com/ishare20/formalizedChinese/discussions',
             label: 'Github',
             position: 'right',
           },
@@ -105,6 +105,10 @@ const config = {
           {
             title: '社区',
             items: [
+              {
+                label:'Github Discussions',
+                href:'https://github.com/ishare20/formalizedChinese/discussions'
+              },
               {
                 label: 'QQ群',
                 href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=gTzn-fXckwCTHiMGtNPtjJkjuAzaCwlW&authKey=TnyZ%2B%2B0THftiJASwuOjHRyGHXgsSWkqT%2BI16C0DHHPHIckuVjIJBo0bt8qfaP0Vc&noverify=0&group_code=762734993',

@@ -8,12 +8,6 @@
 
 为什么不称为英式中文，FC舍弃了为英文口语发音的形式变化，本质是形式化，手段是英文语法，所以使用形式中文更加合适
 
-## 理念
- 
-FC追求清晰、准确且有逻辑的表达，取英文之精华，弃其之糟粕打造形式中文，用英文形式逻辑赋能中文。在FC中，英语单词和中文词语都被视为符号
-
-英文是一门形式语言，明确的语法规则使其表达更加清晰和注重逻辑。受限于英文单词的积累量，许多学习者不会主动使用英文形式表达，自然更难以感受到形式语言的魅力。为此我们用形式化的方式降低形式语言的使用门槛，允许中文词语符号添加s、ly、ed等后词缀形成词汇，通过这一方式快速扩大了词汇量，同时保留英语的介词、冠词、代词、连接词、时态、句式、空格分割单词等，使用统一规则的形式变化，放弃为口语发音而产生的单词不规则形式变化
-
 ## 例文
 
 English is 形合的er than Chinese. It is 表现ed in 以下的 3点:
@@ -23,6 +17,13 @@ English is 形合的er than Chinese. It is 表现ed in 以下的 3点:
 2. There are 庞大数量的 单词s with 多种的 形态变化s in English. It is 必要的 to 区分 时态, 词性 and so on of 单词s by their 形式s.
 
 3. English is 影响ed by 形式逻辑 of 亚里士多德 and 文化 of 理性主义. It is 要求ed to 表达 准确ly and 逻辑ly.
+
+
+## 理念
+ 
+FC追求清晰、准确且有逻辑的表达，取英文之精华，弃其之糟粕打造形式中文，用英文形式逻辑赋能中文。在FC中，英语单词和中文词语都被视为符号
+
+英文是一门形式语言，明确的语法规则使其表达更加清晰和注重逻辑。受限于英文单词的积累量，许多学习者不会主动使用英文形式表达，自然更难以感受到形式语言的魅力。为此我们用形式化的方式降低形式语言的使用门槛，允许中文词语符号添加s、ly、ed等后词缀形成词汇，通过这一方式快速扩大了词汇量，同时保留英语的介词、冠词、代词、连接词、时态、句式、空格分割单词等，使用统一规则的形式变化，放弃为口语发音而产生的单词不规则形式变化
 
 
 ## 语法范式
@@ -41,9 +42,20 @@ FC表达提倡把更清晰、准确且有逻辑的表达作为一个可持续迭
 FC指南是一个持续迭代完善的在线文档，目前FC指南虽然不完善，但已是一个最小可用产品（MVP）。文档的完善需要不断的feedback和实践，欢迎加入形式中文FC社区参与交流讨论
 
 ## 社区
+建议在Github Discussions使用形式中文讨论交流，因为Discussions无论是帖子评论都支持修改，
+形式中文需要不断地修改内容
+
+### Github Discussions
+[Github Discussions](https://github.com/ishare20/formalizedChinese/discussions)
 
 ### 豆瓣小组
-[形式中文FC](https://www.douban.com/group/737565/)
+[形式中文FC小组](https://www.douban.com/group/737565/)
+
+### 知乎
+[如何评价形式中文Formalized Chinese？](https://www.zhihu.com/question/603631263)
+
+[知乎topic](https://www.zhihu.com/topic/27621672/hot)
 
 ### QQ群
 ![QQ群二维码](https://ishare20.github.io/formalizedChinese/img/qqgroup.png)
+
