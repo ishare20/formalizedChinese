@@ -12,10 +12,10 @@ const config = {
 
   // Set the production url of your site here
   // url: 'https://ishare20.net',
+  // baseUrl: '/fc/',
   url: 'https://ishare20.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/formalizedChinese/',
+ 
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -78,12 +78,12 @@ const config = {
             position: 'left',
             label: '指南',
           },
-          // {to: '/blog', label: '博客', position: 'left'},
-          /* {
-            href: 'https://github.com/facebook/docusaurus',
-            label: '社区',
+          {to: '/blog', label: '博客', position: 'left'},
+          {
+            href: 'https://github.com/ishare20/formalizedChinese',
+            label: 'Github',
             position: 'right',
-          }, */
+          },
         ],
       },
       footer: {
@@ -96,6 +96,10 @@ const config = {
                 label: '指南',
                 to: '/docs/intro',
               },
+              {
+                label: '博客',
+                to: '/blog',
+              },
             ],
           },
           {
@@ -103,7 +107,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=on7A7QU_6hKmn5S4nCGYopMhkzvbdbay&authKey=8fbYr9Dop5HUCGOjn1tgsBiq0UuPW5C1Nmmk4W2DPwYsc4CGTcErtfC48QiALaEY&noverify=0&group_code=607168904',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=gTzn-fXckwCTHiMGtNPtjJkjuAzaCwlW&authKey=TnyZ%2B%2B0THftiJASwuOjHRyGHXgsSWkqT%2BI16C0DHHPHIckuVjIJBo0bt8qfaP0Vc&noverify=0&group_code=762734993',
               },
               {
                 label: '豆瓣小组',

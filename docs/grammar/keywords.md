@@ -10,8 +10,6 @@ FC语法必须掌握的关键词汇列表，在FC表达中不能用中文词语�
 - the
 
 
-
-
 ## 介词
 1. of
 2. in
@@ -101,7 +99,7 @@ FC语法必须掌握的关键词汇列表，在FC表达中不能用中文词语�
 - will
 - would
 - must
-- ought to（有时也算情态助动词）
+<!-- - ought to（有时也算情态助动词） -->
 
 <!-- ### 5. 半情态动词
 - need
@@ -136,42 +134,39 @@ FC语法必须掌握的关键词汇列表，在FC表达中不能用中文词语�
 - than
 - that
 - though
-- till
 - unless
 - until
 - when
 - where
 - while
 
-3. 连接副词（Correlative conjunctions）: 一种特殊的连接词，通常是成对使用，并放在要连接的词、短语、句子之前。
+1. 连接副词（Correlative conjunctions）: 一种特殊的连接词，通常是成对使用，并放在要连接的词、短语、句子之前。
 - both...and
 - either...or
 - neither...nor
 - not only...but also
 - whether...or
 
-4. 独立主格连接词（Conjunctive adverbs）: 常被视为特殊的连接词，位于两个分句之间，起到衔接两个分句的作用。
-- accordingly
+1. 独立主格连接词（Conjunctive adverbs）: 常被视为特殊的连接词，位于两个分句之间，起到衔接两个分句的作用。
 - also
-- besides
-- consequently
-- finally
-- furthermore
-- hence
-- however
-- indeed
 - instead
+- besides
+- finally
+- then
+- still
+- however
+- next
+- indeed
 - likewise
 - meanwhile
 - moreover
 - nevertheless
-- next
 - nonetheless
 - otherwise
-- still
-- then
 - therefore
 - thus
+- hence
+- furthermore
 
 
 
