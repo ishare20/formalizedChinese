@@ -43,10 +43,14 @@ FC表达提倡把更清晰、准确且有逻辑的表达作为一个可持续迭
 FC指南是一个持续迭代完善的在线文档，目前FC指南虽然不完善，但已是一个最小可用产品（MVP）。文档的完善需要不断的feedback和实践，欢迎加入形式中文FC的社区参与交流讨论
 
 ## 社区
+建议在Github Discussions使用形式中文讨论交流，因为Discussions无论是帖子评论都支持修改，
+形式中文需要不断地修改内容
 
+### Github Discussions
+[Github Discussions](https://github.com/ishare20/formalizedChinese/discussions)
 
 ### 豆瓣小组
-加入[形式中文FC](https://www.douban.com/group/737565/)，开启迭代表达
+[形式中文FC小组](https://www.douban.com/group/737565/)
 
 ### 知乎
 [如何评价形式中文Formalized Chinese？](https://www.zhihu.com/question/603631263)
