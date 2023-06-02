@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishare20.github.io/formalizedChinese/blog</id>
     <title>形式中文 Blog</title>
-    <updated>2023-05-31T07:46:14.000Z</updated>
+    <updated>2023-06-02T02:18:27.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ishare20.github.io/formalizedChinese/blog"/>
     <subtitle>形式中文 Blog</subtitle>
     <icon>https://ishare20.github.io/formalizedChinese/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[以用代学，顺应人性，循序渐进]]></title>
+        <id>https://ishare20.github.io/formalizedChinese/blog/20230602</id>
+        <link href="https://ishare20.github.io/formalizedChinese/blog/20230602"/>
+        <updated>2023-06-02T02:18:27.221Z</updated>
+        <summary type="html"><![CDATA[认知英语]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="认知英语">认知英语<a href="#认知英语" class="hash-link" aria-label="认知英语的直接链接" title="认知英语的直接链接">​</a></h2><p>想清楚为什么学英语比怎么学英语更重要，在应试英语教育下，对英语的认知有许多误导，分数导向，扭曲了语言学习本质。抛开应试教育的评价体系，英语学习本质是为了表达，学好意思是用好，也就是更清晰、准确且有逻辑地表达，为什么说是为了表达，All for 表达，通常想到的是写作或交流，这只是狭义的表达</p><p>对程序员来说，写代码也是表达，只是表达面向的对象是计算机或其他程序员。所以学英语的目标就很明确了，更好地表达，只有这个目标才能不断地驱使你不断地学习英语</p><p>你的阅读是给表达服务的，无论你在读资料还是读代码，更好地表达既是让其他人更高效地理解你表达的意思，沟通协助更高效，也是写出更好的代码，让其他程序员更容易理解你的代码，这些对你来说，都是正面激励，正面激励非常重要，它驱使你去做更多的阅读、表达来达成更好的表达，形成学习闭环。正面激励增强你对英语的认可，加强信念感，也就是你相信你在做的事，并且相信自己能做好</p><p>为什么说正面激励非常重要？你想过你为什么学不好英语吗？学不好最本质是你内心根本就不相信你能学好，这种不相信可能不是你一开始就不相信的（如果一开始是就更惨了），而学习过程中的负反馈，一点一点地积累形成的，比如说背单词，背大量单词出现的遗忘现象这种负面反馈就会是使你信心受挫，如会认为自己的记忆力差，怀疑自己，否定自己，然而你必须面对考试的压力，不得不在投入更多时间背单词，恶性循环，然后就慢慢地不认可自己在做的事
+面对遗忘的问题时候，不应该逃避它，而是正视它，你想过为什么背完单词会又忘了吗？忘记不是因为你记忆力差，而是单词对你来说不接受、不重要、没联系，背单词很重要这种说法只是老师、考试等外在因素强迫你的，你内心从来就不觉得单词很重要，因为你在忘记。或者说记单词这件事很痛苦，可忘记痛苦是人类的自我保护机制，不要也不可能违背人的天性，直面真实的自己吧</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="形式中文">形式中文<a href="#形式中文" class="hash-link" aria-label="形式中文的直接链接" title="形式中文的直接链接">​</a></h2><p>英语学习的策略可以总结为接受、重要、有联系、正面激励。这些策略也不是一蹴而就的，接受是逐渐接受的过程，但首先最重要的第一个信念就是相信自己能学好英语</p><p>针对程序员英语学习的现状，我提出了形式中文这一中英结合的渐进式框架。形式中文是一种适用于程序员学习英语的工具。这种工具通过限定英语学习范围到读写（read and write），并允许中文词汇进行形式变化，来简化英语学习过程</p><p>形式中文接受你不记得单词，认为表达很重要，跟已有知识是有联系的，使用迭代表达方式给到正面激励。当然正面激励用迭代表达还不够，所以你想学好英语并认可形式中文的理念，欢迎加入形式中文的社区形成更多的正面激励</p><p><a href="https://github.com/ishare20/formalizedChinese/discussions" target="_blank" rel="noopener noreferrer">社区Github Discussions</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[形式中文，程序员视角下的英语学习]]></title>
         <id>https://ishare20.github.io/formalizedChinese/blog/20230531</id>
