@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
-        放弃英文为口语发音而产生的单词不规则形式变化，降低使用难度，限于书面表达
+        放弃英文为口语发音而产生的单词不规则形式变化，降维英文至可用状态，限于阅读和写作
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
-        保留英文的介词、冠词、代词、连接词、时态、句式等，渐进式提高表达能力
+        保留英文的介词、冠词、代词、连接词、时态、句式等，渐进式增加阅读量和提升表达能力
       </>
     ),
   },

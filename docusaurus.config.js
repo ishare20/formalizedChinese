@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '形式中文',
-  tagline: '准确、清晰且有逻辑的表达方式',
+  tagline: 'A way to 降维 English text to be available',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
