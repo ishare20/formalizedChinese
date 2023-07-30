@@ -8,6 +8,7 @@ cp -r $distPath $destPath
 
 echo "推送github"
 
+cd $destPath
 git add .
 git commit -m 'update'
 git push origin build:build
