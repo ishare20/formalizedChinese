@@ -79,6 +79,7 @@ const config = {
             label: '指南',
           },
           {to: '/blog', label: '博客', position: 'left'},
+          {to: '/blog/20230731', label: '选词翻译', position: 'left'},
           {
             href: 'https://github.com/ishare20/formalizedChinese/discussions',
             label: 'Github',
