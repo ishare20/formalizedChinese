@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishare20.github.io/formalizedChinese/blog</id>
     <title>形式中文 Blog</title>
-    <updated>2023-06-08T01:50:56.000Z</updated>
+    <updated>2023-07-31T08:58:26.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ishare20.github.io/formalizedChinese/blog"/>
     <subtitle>形式中文 Blog</subtitle>
     <icon>https://ishare20.github.io/formalizedChinese/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[形式中文选词翻译工具]]></title>
+        <id>https://ishare20.github.io/formalizedChinese/blog/20230731</id>
+        <link href="https://ishare20.github.io/formalizedChinese/blog/20230731"/>
+        <updated>2023-07-31T08:58:26.286Z</updated>
+        <summary type="html"><![CDATA[为了减少选词翻译的繁琐步骤，开发了一个微信小程序 【柠檬词典】支持解析英文文本，点击英文单词后选词翻译，支持复制原文和复制当前。]]></summary>
+        <content type="html"><![CDATA[<p>为了减少选词翻译的繁琐步骤，开发了一个微信小程序 【柠檬词典】支持解析英文文本，点击英文单词后选词翻译，支持复制原文和复制当前。
+小程序还不够完善，但是可用的</p><p>目前英文多段解析还不支持，首次单词查询比较慢</p><p>扫码上手体验
+<img loading="lazy" src="https://ishare20.github.io/formalizedChinese/img/translate_fc.png" alt="柠檬词典" class="img_ev3q"></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英语学习的认知观]]></title>
         <id>https://ishare20.github.io/formalizedChinese/blog/20230602</id>

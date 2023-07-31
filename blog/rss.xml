@@ -4,10 +4,20 @@
         <title>形式中文 Blog</title>
         <link>https://ishare20.github.io/formalizedChinese/blog</link>
         <description>形式中文 Blog</description>
-        <lastBuildDate>Thu, 08 Jun 2023 01:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 08:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[形式中文选词翻译工具]]></title>
+            <link>https://ishare20.github.io/formalizedChinese/blog/20230731</link>
+            <guid>https://ishare20.github.io/formalizedChinese/blog/20230731</guid>
+            <pubDate>Mon, 31 Jul 2023 08:58:26 GMT</pubDate>
+            <description><![CDATA[为了减少选词翻译的繁琐步骤，开发了一个微信小程序 【柠檬词典】支持解析英文文本，点击英文单词后选词翻译，支持复制原文和复制当前。]]></description>
+            <content:encoded><![CDATA[<p>为了减少选词翻译的繁琐步骤，开发了一个微信小程序 【柠檬词典】支持解析英文文本，点击英文单词后选词翻译，支持复制原文和复制当前。
+小程序还不够完善，但是可用的</p><p>目前英文多段解析还不支持，首次单词查询比较慢</p><p>扫码上手体验
+<img loading="lazy" src="https://ishare20.github.io/formalizedChinese/img/translate_fc.png" alt="柠檬词典" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[英语学习的认知观]]></title>
             <link>https://ishare20.github.io/formalizedChinese/blog/20230602</link>
