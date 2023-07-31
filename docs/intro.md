@@ -42,6 +42,9 @@ FC表达提倡把更清晰、准确且有逻辑的表达作为一个可持续迭
 ## 检查工具
 用[微软在线语法检查](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-editor/grammar-checker)后，显示grammar通过即满足第一范式
 
+## 选词翻译小程序
+为了减少选词翻译的繁琐步骤，开发了一个微信小程序 【柠檬词典】支持解析英文文本，点击英文单词后选词翻译，支持复制原文和复制当前
+![柠檬词典](https://ishare20.github.io/formalizedChinese/img/translate_fc.png)
 
 ## 参与贡献
 FC指南是一个持续迭代完善的在线文档，目前FC指南虽然不完善，但已是一个最小可用产品（MVP）。文档的完善需要不断的feedback和实践，欢迎加入形式中文FC的社区参与交流讨论

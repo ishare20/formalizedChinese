@@ -100,6 +100,10 @@ const config = {
                 label: '博客',
                 to: '/blog',
               },
+              {
+                label: '选词翻译',
+                to: '/blog/20230731',
+              },
             ],
           },
           {

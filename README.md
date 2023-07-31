@@ -1,7 +1,6 @@
 # 形式中文指南
 文档地址
-- [在线阅读地址1](https://ishare20.net/fc/)
-- [在线阅读地址2](https://ishare20.github.io/formalizedChinese/)
+- [在线阅读地址](https://ishare20.github.io/formalizedChinese/)
 
 ## 定义
 用英文规则变化的语法将中文形式化并限定于文字表达的方式称为**形式中文**。英文定义为**Formalized Chinese**，简称**FC**（下文使用FC）
@@ -20,6 +19,11 @@ English is 形合的er than Chinese. It is 表现ed in 以下的 3点:
 
 
 ## 理念
+
+### 阅读
+进行阅读的前提是可阅读和可持续阅读，可阅读为可理解输入一种，形式中文目的将全英文文本降维至可读状态，降维过程需要读者完成。也就是将全英文文本中不懂单词按需翻译，即为选词翻译，从而降维至形式中文形式。可持续性阅读提倡兴趣、好奇驱动，形式中文不指定阅读材料，提倡主题阅读
+
+### 写作
  
 FC追求清晰、准确且有逻辑的表达，取英文之精华，弃其之糟粕打造形式中文，用英文形式逻辑赋能中文。在FC中，英语单词和中文词语都被视为符号
 
@@ -37,6 +41,9 @@ FC表达提倡把更清晰、准确且有逻辑的表达作为一个可持续迭
 ## 检查工具
 用[微软在线语法检查](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-editor/grammar-checker)后，显示grammar通过即满足第一范式
 
+## 选词翻译小程序
+为了减少选词翻译的繁琐步骤，开发了一个微信小程序 【柠檬词典】支持解析英文文本，点击英文单词后选词翻译，支持复制原文和复制当前
+![柠檬词典](https://ishare20.github.io/formalizedChinese/img/translate_fc.png)
 
 ## 参与贡献
 FC指南是一个持续迭代完善的在线文档，目前FC指南虽然不完善，但已是一个最小可用产品（MVP）。文档的完善需要不断的feedback和实践，欢迎加入形式中文FC社区参与交流讨论
